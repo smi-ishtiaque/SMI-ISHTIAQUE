@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:<br>
-I'm a passionate technologist with technical expertise and business acumen. I leverage my Management Information Systems (MIS), Marketing, and Full Stack Development background to bridge the gap between technology and business strategies.<br>
+A creative technologist with a strong focus on content creation, digital design, and full-stack development, backed by an academic foundation in Management Information Systems (MIS), Marketing, and Software Development. This unique blend of creativity and technical expertise enables impactful contributions across branding, technology, and business functions.<br>
 
-🧩 Full-Stack Development • Software Testing • Content Creation • Digital Marketing • Business Administration<br>
+🧩 Digital Designer & Branding | UI/UX | Web & Software Strategy | ERP & MIS | Digital Marketing<br>
 
 🛠 Tech Specialization<br>
 
